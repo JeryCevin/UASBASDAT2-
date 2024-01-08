@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "659b959a8ec17269457e2c0f"
+  },
+  "id": 1,
+  "nim": "1234567890",
+  "nama_depan": "Elo",
+  "nama_belakang": "Putra",
+  "phone": "081234567890",
+  "kota_asal": "Palembang"
+},
+{
+  "_id": {
+    "$oid": "659b959a8ec17269457e2c10"
+  },
+  "id": 2,
+  "nim": "9876543210",
+  "nama_depan": "Eko",
+  "nama_belakang": "Kuntadhi",
+  "phone": "082134567890",
+  "kota_asal": "Jakarta"
+},
+{
+  "_id": {
+    "$oid": "659ba2298ec17269457e2c25"
+  },
+  "nim": "2213005",
+  "namadepan": "JERY",
+  "namabelakang": "CEVIN",
+  "phone": "088267093579",
+  "kotaasal": "PALEMBANG"
+}]

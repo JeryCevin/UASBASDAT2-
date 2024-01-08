@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "659b978c8ec17269457e2c11"
+  },
+  "id": 1,
+  "idmhs": 3444,
+  "hobi": [
+    "Traveling",
+    "Music",
+    "Games"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659b978c8ec17269457e2c12"
+  },
+  "id": 2,
+  "idmhs": 3445,
+  "hobi": [
+    "Kuliner",
+    "Memancing",
+    "Traveling",
+    "Games"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ba38e8ec17269457e2c26"
+  },
+  "id": 1,
+  "idmhs": "3444",
+  "hobi": "ngoding, gym, games"
+},
+{
+  "_id": {
+    "$oid": "659ba38e8ec17269457e2c27"
+  },
+  "id": 2,
+  "idmhs": "3445",
+  "hobi": "Kuliner, memancing, wibu"
+},
+{
+  "_id": {
+    "$oid": "659ba38e8ec17269457e2c28"
+  },
+  "id": 3,
+  "idmhs": "3446",
+  "hobi": "basket, catur, menulis"
+},
+{
+  "_id": {
+    "$oid": "659ba38e8ec17269457e2c29"
+  },
+  "id": 4,
+  "idmhs": "3447",
+  "hobi": "Belanja, memasak, besepeda"
+},
+{
+  "_id": {
+    "$oid": "659ba38e8ec17269457e2c2a"
+  },
+  "id": 5,
+  "idmhs": "3448",
+  "hobi": "Nonton film, slot, nongki"
+}]

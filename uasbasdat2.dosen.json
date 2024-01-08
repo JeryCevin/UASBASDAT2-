@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "659b9d118ec17269457e2c20"
+  },
+  "id": 1,
+  "idprodi": 100,
+  "nama": "putri",
+  "homebase": "Informatika"
+},
+{
+  "_id": {
+    "$oid": "659b9d118ec17269457e2c21"
+  },
+  "id": 2,
+  "idprodi": 101,
+  "nama": "putri bangsa",
+  "homebase": "T Elektro"
+},
+{
+  "_id": {
+    "$oid": "659b9d118ec17269457e2c22"
+  },
+  "id": 3,
+  "idprodi": 102,
+  "nama": "eva laura",
+  "homebase": "sistem infromasi"
+}]
